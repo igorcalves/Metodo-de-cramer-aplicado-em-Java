@@ -2,12 +2,12 @@ package Matriz;
 
 public class ValoresMatriz {
 	
-	public static double matrizPrincipal[][] = {{5, 5, 3},
-												{5, 4, 7},
-												{4, 5 ,4}
+	public static double matrizPrincipal[][] = {{1, 2, 1},
+												{2, 1, -4},
+												{1, 1 ,1}
 		};
 	
-	public static double matrizResults[] = {43,44,39};
+	public static double matrizResults[] = {6,3,5};
 	
 	
 	public void printMatriz() {
